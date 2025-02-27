@@ -1,4 +1,4 @@
-<h1>PPOCR_VIET_NAM</h1>
+   <h1>PPOCR_VIET_NAM</h1>
 
 
 # Vision 1 - Trích Xuất Thông Tin Từ Giấy Tờ và Biển Hiệu
@@ -255,9 +255,3 @@ Dưới đây là toàn bộ file cần thiết cho configs:
         --image_dir="your_test_image_path"
 ## Kết quả
 Kết quả nhận diện sẽ được hiển thị trên ảnh đầu vào và xuất dưới dạng văn bản.
-
-## Liên hệ
-Nếu có bất kỳ vấn đề nào, vui lòng liên hệ qua email: `pdang0952@gmail.com`.
-# PPOCR_VIET_NAM
-# PPOCR_VIET_NAM
-# PPOCR_VIET_NAM
